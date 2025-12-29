@@ -1,6 +1,9 @@
 # systems-design-automation
 A systems design project demonstrating secure, human-in-the-loop automation using BPMN, cloud infrastructure, and AI.
 
+🌐 Live system (secured): https://systems.tumisi.space  
+🔒 Access protected via Cloudflare Zero Trust
+
 ## Overview
 This project demonstrates how modern software systems can be designed to automate complex, real-world workflows while remaining ethical, auditable, and human-controlled.
 
@@ -87,7 +90,8 @@ This project reflects how I think about software:
 ---
 
 ## Notes
-Source code is intentionally limited in this repository. 
+🌐 Live system (secured): https://systems.tumisi.space  
+🔒 Access protected via Cloudflare Zero Trust
 The emphasis is on **design, architecture, and decision-making**, rather than implementation detail.
 
 Diagrams and supporting artefacts may be added over time.
